@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{employee-directory/node_modules}" />
+    <file url="file://$PROJECT_DIR$/.meteor/local/build/programs/server" libraries="{employee-directory/.meteor/local/build/programs/server/node_modules}" />
+    <file url="file://$PROJECT_DIR$/.meteor/local/build/programs/server/npm" libraries="{employee-directory/.meteor/local/build/programs/server/npm/node_modules}" />
+    <file url="file://$PROJECT_DIR$/.meteor/local/dev_bundle/lib" libraries="{employee-directory/.meteor/local/dev_bundle/lib/node_modules}" />
+    <file url="file://$PROJECT_DIR$/.meteor/local/dev_bundle/server-lib" libraries="{employee-directory/.meteor/local/dev_bundle/server-lib/node_modules}" />
+    <file url="PROJECT" libraries="{meteor-packages-auto-import-browser, meteor-packages-auto-import-npm}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+    <includedPredefinedLibrary name="Meteor project library" />
+  </component>
+</project>
